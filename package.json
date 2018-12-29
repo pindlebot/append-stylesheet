@@ -1,0 +1,10 @@
+{
+  "name": "append-stylesheet",
+  "version": "0.0.2",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": ".git",
+    "url": "https://github.com/unshift/append-stylesheet.git"
+  }
+}
